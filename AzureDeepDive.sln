@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDB", "DocumentDB\DocumentDB.csproj", "{A3C56C4A-94E2-4B5E-9198-64AC4D3F7C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "Redis\Redis.csproj", "{7E219217-D23A-44F1-9AE2-856F6398ED88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFileShareTest", "AzureFileShareTest\AzureFileShareTest.csproj", "{4A254DA6-E6E0-4EE5-A964-538117FD592C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C56C4A-94E2-4B5E-9198-64AC4D3F7C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C56C4A-94E2-4B5E-9198-64AC4D3F7C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C56C4A-94E2-4B5E-9198-64AC4D3F7C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C56C4A-94E2-4B5E-9198-64AC4D3F7C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E219217-D23A-44F1-9AE2-856F6398ED88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E219217-D23A-44F1-9AE2-856F6398ED88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E219217-D23A-44F1-9AE2-856F6398ED88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E219217-D23A-44F1-9AE2-856F6398ED88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A254DA6-E6E0-4EE5-A964-538117FD592C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A254DA6-E6E0-4EE5-A964-538117FD592C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A254DA6-E6E0-4EE5-A964-538117FD592C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A254DA6-E6E0-4EE5-A964-538117FD592C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
